@@ -1,0 +1,13 @@
+/Users/yipin.wt/IdeaProjects/maven-analyzer/src/main/java/com/c2f/maven/util/HttpClientUtil.java
+/Users/yipin.wt/IdeaProjects/maven-analyzer/src/main/java/com/c2f/maven/core/ProgramEnvironment.java
+/Users/yipin.wt/IdeaProjects/maven-analyzer/src/main/java/com/c2f/maven/util/ClassUtil.java
+/Users/yipin.wt/IdeaProjects/maven-analyzer/src/main/java/com/c2f/maven/core/Command.java
+/Users/yipin.wt/IdeaProjects/maven-analyzer/src/main/java/com/c2f/maven/analyzer/MavenDependencyAnalyzer.java
+/Users/yipin.wt/IdeaProjects/maven-analyzer/src/main/java/com/c2f/maven/git/GitProjectCommand.java
+/Users/yipin.wt/IdeaProjects/maven-analyzer/src/main/java/com/c2f/maven/git/GitNamespaceInfoDTO.java
+/Users/yipin.wt/IdeaProjects/maven-analyzer/src/main/java/com/c2f/maven/util/JacksonUtil.java
+/Users/yipin.wt/IdeaProjects/maven-analyzer/src/main/java/com/c2f/maven/git/GitProjectsInfoDTO.java
+/Users/yipin.wt/IdeaProjects/maven-analyzer/src/main/java/com/c2f/maven/core/CommandStreamHandler.java
+/Users/yipin.wt/IdeaProjects/maven-analyzer/src/main/java/com/c2f/maven/git/GitCloneCommand.java
+/Users/yipin.wt/IdeaProjects/maven-analyzer/src/main/java/com/c2f/maven/git/GitPullCommand.java
+/Users/yipin.wt/IdeaProjects/maven-analyzer/src/main/java/com/c2f/maven/core/AnalyzerBootstrap.java

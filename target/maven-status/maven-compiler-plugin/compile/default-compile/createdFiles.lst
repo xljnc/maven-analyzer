@@ -1,0 +1,17 @@
+com/c2f/maven/git/GitPullCommand.class
+com/c2f/maven/git/GitNamespaceInfoDTO.class
+com/c2f/maven/core/AnalyzerBootstrap$1.class
+com/c2f/maven/util/JacksonUtil.class
+com/c2f/maven/core/CommandStreamHandler.class
+com/c2f/maven/util/HttpClientUtil.class
+com/c2f/maven/util/HttpClientUtil$1.class
+com/c2f/maven/git/GitProjectCommand.class
+com/c2f/maven/util/HttpClientUtil$2.class
+com/c2f/maven/core/ProgramEnvironment.class
+com/c2f/maven/util/ClassUtil.class
+com/c2f/maven/analyzer/MavenDependencyAnalyzer.class
+com/c2f/maven/core/Command.class
+com/c2f/maven/util/HttpClientUtil$3.class
+com/c2f/maven/git/GitProjectsInfoDTO.class
+com/c2f/maven/core/AnalyzerBootstrap.class
+com/c2f/maven/git/GitCloneCommand.class
